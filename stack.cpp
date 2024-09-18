@@ -49,4 +49,5 @@ int main(){
 	push(7);
 	pop();
 	show();	
+	cout<<endl;
 }
